@@ -20,9 +20,15 @@ Anki add-on to quickly manage cards you already know perfectly. It suspends them
 
 ## Installation
 
-1. Download the `.ankiaddon` file from Releases (or build it yourself).
-2. Open Anki -> Tools -> Add-ons -> Install from file...
-3. Select the file.
+The easiest way to install Mastered is through AnkiWeb.
+
+1. Open Anki and navigate to **Tools** -> **Add-ons**.
+2. Click on **Get Add-ons...**.
+3. Paste the code: `578865686`
+4. Click **OK** to download.
+5. Restart Anki to complete the installation.
+
+View the add-on page on [AnkiWeb](https://ankiweb.net/shared/info/578865686).
 
 ## Development Setup
 
